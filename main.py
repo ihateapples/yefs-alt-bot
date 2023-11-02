@@ -1,6 +1,6 @@
 import discord
 
-ihateapples_id = "1102729020526829628" # so basically right here you put the id of the person you want to control the bot. not really a selfbot if u think of it like that, but its something.
+ihateapples_id = "bot-controller-userid-here" # so basically right here you put the id of the person you want to control the bot. not really a selfbot if u think of it like that, but its something.
 
 class YefClient(discord.Client):
     async def on_ready(self):
