@@ -1,1 +1,3 @@
-# so like before anything you're gonna wanna open cmd prompt and type in "pip install discord" if you dont then this just might not work. if you do then it'll work.
+# make sure u have python 3.10 and up. 
+
+*instructions: run setup.bat* it was **NEVER** that complicated.
